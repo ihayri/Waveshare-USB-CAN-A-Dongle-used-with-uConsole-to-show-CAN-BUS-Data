@@ -3,6 +3,11 @@ CAN Gauge – OBD2 Live Data Reader A real-time vehicle dashboard that reads OBD
 
 https://www.waveshare.com/usb-can-a.htm?srsltid=AfmBOooYW8yivWAwoNYXT7TwFn4_5JUhXqPOBoc9Ek3DjfvuyQxJAsAt
 
+<img width="3628" height="2041" alt="IMG_20260613_091141492_HDR" src="https://github.com/user-attachments/assets/09e556fb-116e-4425-81ea-bee42f1e636d" />
+
+https://youtu.be/1icTISAF99w
+
+
 ✅ HOW WE MADE THE CAN GAUGE WORK (TEXT HOW‑TO)
 1
 Identify the Correct USB Port
