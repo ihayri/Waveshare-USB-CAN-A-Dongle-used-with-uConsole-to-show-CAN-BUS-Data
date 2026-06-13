@@ -1,6 +1,8 @@
 # Waveshare-USB-CAN-A-Dongle-used-with-uConsole-to-show-CAN-BUS-Data
 CAN Gauge – OBD2 Live Data Reader A real-time vehicle dashboard that reads OBD2 data over CAN bus using a Waveshare USB-CAN adapter. Built with Python, this tool displays live engine parameters in a clean, collision-proof terminal UI.
 
+https://www.waveshare.com/usb-can-a.htm?srsltid=AfmBOooYW8yivWAwoNYXT7TwFn4_5JUhXqPOBoc9Ek3DjfvuyQxJAsAt
+
 ✅ HOW WE MADE THE CAN GAUGE WORK (TEXT HOW‑TO)
 1
 Identify the Correct USB Port
