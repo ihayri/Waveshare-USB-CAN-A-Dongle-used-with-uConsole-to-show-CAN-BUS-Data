@@ -8,7 +8,7 @@ https://www.waveshare.com/usb-can-a.htm?srsltid=AfmBOooYW8yivWAwoNYXT7TwFn4_5JUh
 https://youtu.be/1icTISAF99w
 
 
-✅ HOW WE MADE THE CAN GAUGE WORK (TEXT HOW‑TO)
+✅ HOW I MADE THE CAN GAUGE WORK (TEXT HOW‑TO)
 1
 Identify the Correct USB Port
 Start Here
